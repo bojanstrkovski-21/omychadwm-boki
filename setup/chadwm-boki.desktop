@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=chadwm-boki
+Comment=Dynamic window manager
+Exec=/usr/bin/exec-chadwm_boki
+Icon=chadwm
+Type=Application
+Name[en_US]=chadwm-boki.desktop
